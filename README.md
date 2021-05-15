@@ -1,4 +1,4 @@
 # Introduccióna  Docker
-Curso "Introducción a  docker" para el CEP de Zafra - Abril 2021
+Curso "Introducción a  docker"
 
-[Curso](https://iesgn.github.io/curso_docker_2021)
+[Curso](https://reinaldoca.github.io/curso_docker_2021)
