@@ -7,12 +7,12 @@ nav_order: 1
 # Introducción a Docker
 {: .fs-9 }
 
-Curso "Introducción a Docker" desarrollado para el CPR de Zafra (Abril 2021).
+Curso "Introducción a Docker".
 {: .fs-6 .fw-300 }
 
-## Videoconferencia
+<!--## Videoconferencia
 
-* [Videoconferencia para la celebración de las sesiones](https://vostok.gonzalonazareno.org/curso_docker_2021)
+* [Videoconferencia para la celebración de las sesiones](https://curso_docker_2021) -->
 
 ## Objetivos
 
