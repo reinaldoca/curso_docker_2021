@@ -30,12 +30,12 @@ Curso "Introducción a Docker".
 
 ## Contenidos
 
-* [Sesión 1: Introducción a los contenedores y a Docker (**15 de abril**)](sesion1)
-* [Sesión 2: Trabajando con imágenes docker (**22 de abril**)](sesion2)
-* [Sesión 3: Almacenamiento en docker (**29 de abril**)](sesion3)
-* [Sesión 4: Redes en docker (**6 de mayo**)](sesion4)
-* [Sesión 5: Creando escenarios multicontenedor con docker-compose (**13 de mayo**)](sesion5)
-* [Sesión 6: Creación de imágenes en docker (**20 de mayo**)](sesion6)
+* [Sesión 1: Introducción a los contenedores y a Docker](sesion1)
+* [Sesión 2: Trabajando con imágenes docker ](sesion2)
+* [Sesión 3: Almacenamiento en docker ](sesion3)
+* [Sesión 4: Redes en docker ](sesion4)
+* [Sesión 5: Creando escenarios multicontenedor con docker-compose ](sesion5)
+* [Sesión 6: Creación de imágenes en docker](sesion6)
 
 ## Requisitos
 
